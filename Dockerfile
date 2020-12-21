@@ -1,4 +1,4 @@
-FROM jboss/keycloak:12.0.0
+FROM jboss/keycloak:12.0.1
 
 LABEL org.opencontainers.image.source="https://github.com/reciideo-lms/auth"
 
